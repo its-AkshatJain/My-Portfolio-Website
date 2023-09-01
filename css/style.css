@@ -1,0 +1,144 @@
+body{
+    background-color:antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2{
+    font-family: 'Rubik', sans-serif;
+}
+
+.heading{
+    color:#00b2ca;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.spacing{
+    padding:4% 0;
+}
+
+/* Top-container */
+#top_container{
+    background-color:lightblue;
+}
+
+.nav-item{
+    padding:0 1rem;
+}
+
+.top-content{
+    padding:4%;
+}
+
+h2 span{
+    color:#dd6e42;
+}
+
+.top-image{
+    height:250px;
+    border-radius:100%;
+    border: 20px solid white;
+    padding:1rem;
+    display:block;
+    margin:5% auto;
+}
+
+
+/* About */
+.about-image{
+    display: block;
+    width:80%;
+    margin: auto;
+}
+
+.about-image-display{
+    display:flex;
+}
+
+/* Education */
+.institute{
+    font-weight:bold;
+    padding-top:4%;
+}
+
+/* Skills */
+.logo{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+
+/* Projects */
+.project-text{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    margin:2% auto 5%; 
+}
+
+.project-image{
+    border-radius:1rem;
+    border:5px groove black;
+}
+
+.project-image:hover{
+   opacity:50%;
+}
+
+/* Contact */
+#Contact{
+    background-color:lightblue;
+    padding:8% 0;  
+}
+.contact-image{
+    height:2.3rem;
+    margin-right:5%;
+}
+.contact{
+    text-align:center;
+}
+.copyright{
+   margin-top:4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* img{
+    opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
+}
+img:hover  {
+    opacity: 0.6;
+    transition: opacity 0.2s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}​ */
